@@ -12,6 +12,7 @@ function App() {
         <p>text-data</p>
         <button onClick ={()=>{}}>提交</button>
         <h1>列表管理</h1>
+        <h2>品牌管理</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
