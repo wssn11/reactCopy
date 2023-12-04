@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>text-data</p>
+        <button onClick ={()=>{}}>提交</button>
         <a
           className="App-link"
           href="https://reactjs.org"
